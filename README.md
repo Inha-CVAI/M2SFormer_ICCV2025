@@ -1,4 +1,4 @@
-# M2SFormer_ICCV2025
+# M2SFormer
 The reproduction code of M2SFOrmer which is accepted in ICCV 2025
 
 ## Abstract
