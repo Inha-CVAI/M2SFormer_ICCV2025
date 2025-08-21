@@ -56,12 +56,3 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 # Code Usage
 
 # Bibtex
-```
-@inproceedings{nam2025m2sformer,
-  title = {M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization},
-  author = {Nam, Ju-Hyeon and Moon, Dong-Hyun and Lee, Sang-Chul},
-  booktitle = {Proceedings of the IEEE/CVF international conference on computer vision},
-  year = {2025},
-  keywords = {international}
-}
-```
