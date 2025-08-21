@@ -10,9 +10,6 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 ## Overall Architecture of M2SFormer
 <img width="8665" height="3697" alt="M2SFormer" src="https://github.com/user-attachments/assets/d85f07db-5f8d-4a32-9e73-291f7e1df151" />
 
-### Difficulty-Guided Attention
-<img width="3165" height="2156" alt="TGADecoder" src="https://github.com/user-attachments/assets/afc10cd7-bbd0-4648-95c8-8e7f0ce086d3" />
-
 ## Experiment Results
 
 ### Segmentation results on CASIAv2 training scheme
