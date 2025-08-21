@@ -31,6 +31,16 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 ### Efficiency Analysis
 <img width="4603" height="4338" alt="EfficiencyGraph" src="https://github.com/user-attachments/assets/5035cc54-5cbb-4d47-9dd5-f0da89d31b74" />
 
+### 🔑 Key Findings from Experiment Results
+- _**Superior Cross-Domain Generalization**_:
+  M2SFormer consistently outperforms state-of-the-art methods on unseen datasets (e.g., Columbia, IMD2020, CoMoFoD, In-the-Wild, MISD). For instance, when trained on CASIAv2, it achieves DSC 58.8 / mIoU 50.8, and when trained on DIS25k, it reaches DSC 87.7 / mIoU 81.5, demonstrating strong robustness across manipulation types and domains
+  
+- _**Efficiency with Higher Accuracy**_:
+  Despite achieving better accuracy, M2SFormer maintains relatively low computational cost—~27.4M parameters and ~14.2 GFLOPs at 256×256 resolution. Compared with models like FBINet and EITLNet, which rely heavily on frequency or dual encoders, M2SFormer strikes a better balance between efficiency and performance
+  
+- _**Clear Gains from Ablation Studies**_:
+  Ablation studies confirm that both multi-spectral + multi-scale fusion and the Edge-Aware DGA decoder are crucial. Removing either significantly degrades unseen-domain performance (e.g., DSC drops from 43.0 → 32.3 without DGA). This validates that the joint integration of spectral-spatial attention and difficulty-guided decoding is the main driver of generalization improvements
+  
 # Code Usage
 
 # Bibtex
