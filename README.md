@@ -1,4 +1,4 @@
-# M2SFormer
+# M2SFormer [ICCV2025 Highlight]
 The reproduction code of M2SFormer which is accepted in ICCV 2025
 
 🚨 Source code of M2SFormer will be updated soon.
