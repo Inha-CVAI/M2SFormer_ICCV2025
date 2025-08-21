@@ -47,7 +47,8 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 <img width="6209" height="3965" alt="SupQualitativeResults" src="https://github.com/user-attachments/assets/07225969-1e26-43ce-b80d-bb8235e18cde" />
 
 ### Segmentatoin results on real-world scenario
-![Uploading image.png…]()
+<img width="1373" height="467" alt="image" src="https://github.com/user-attachments/assets/71694016-ca21-43f1-8154-89ddc7880bc4" />
+
 
 ### Efficiency Analysis
 <img width="4603" height="4338" alt="EfficiencyGraph" src="https://github.com/user-attachments/assets/5035cc54-5cbb-4d47-9dd5-f0da89d31b74" />
