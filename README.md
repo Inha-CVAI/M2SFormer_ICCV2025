@@ -1,5 +1,7 @@
 # M2SFormer
-The reproduction code of M2SFOrmer which is accepted in ICCV 2025
+The reproduction code of M2SFormer which is accepted in ICCV 2025
+
+🚨 Source code of M2SFormer will be updated soon.
 
 ## Latest News
 Our paper was selected as Highlight paper in ICCV 2025!!
