@@ -40,6 +40,9 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
   
 - _**Clear Gains from Ablation Studies**_:
   Ablation studies confirm that both multi-spectral + multi-scale fusion and the Edge-Aware DGA decoder are crucial. Removing either significantly degrades unseen-domain performance (e.g., DSC drops from 43.0 → 32.3 without DGA). This validates that the joint integration of spectral-spatial attention and difficulty-guided decoding is the main driver of generalization improvements
+
+- _**Real-World Corruption Robustness**_:
+  In addition to domain transfer, M2SFormer shows greater resilience to real-world corruptions such as JPEG compression, blurring, and noise, which are common in online tampered images. By leveraging frequency-domain cues (DCT) and curvature-based difficulty guidance, the model preserves boundary fidelity and subtle traces even under degraded conditions, outperforming conventional CNN or single-domain approaches
   
 # Code Usage
 
