@@ -41,7 +41,12 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 <img width="6209" height="3965" alt="QualitativeResults" src="https://github.com/user-attachments/assets/7493003c-ab06-4b9d-92e5-ab6de5c97c7c" />
 
 ### Segmentation results on DIS25k training scheme
+<img width="592" height="209" alt="image" src="https://github.com/user-attachments/assets/b010c9b3-067e-40ad-890d-5fbf20991b2d" />
+
 <img width="6209" height="3965" alt="SupQualitativeResults" src="https://github.com/user-attachments/assets/07225969-1e26-43ce-b80d-bb8235e18cde" />
+
+### Segmentatoin results on real-world scenario
+![Uploading image.png…]()
 
 ### Efficiency Analysis
 <img width="4603" height="4338" alt="EfficiencyGraph" src="https://github.com/user-attachments/assets/5035cc54-5cbb-4d47-9dd5-f0da89d31b74" />
