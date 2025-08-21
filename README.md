@@ -11,13 +11,13 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 <img width="8665" height="3697" alt="M2SFormer" src="https://github.com/user-attachments/assets/d85f07db-5f8d-4a32-9e73-291f7e1df151" />
 
 ### 🔑 Key Insights of the Overall Architecture
-- Unified Multi-Spectral and Multi-Scale Attention
+- _**Unified Multi-Spectral and Multi-Scale Attention**_:
   Instead of processing spatial and frequency cues separately, M2SFormer introduces an M2S Attention Block in the skip connections. This block fuses frequency-domain features (via 2D DCT) and multi-scale spatial cues (SIFT-inspired pyramids), enabling the model to capture both subtle tampering artifacts and diverse forgery patterns across different scales
   
-- Edge-Aware Difficulty-Guided Decoder
+- _**Edge-Aware Difficulty-Guided Decoder**_:
   The decoder integrates a curvature-based global prior map to quantify the “difficulty” of localization. By identifying high-curvature edge regions as perceptually harder, the model transforms this difficulty into a text-based representation and applies Difficulty-Guided Attention (DGA), focusing the Transformer decoder on challenging regions while preserving fine details
   
-- Balanced Efficiency and Generalization
+- _**Balanced Efficiency and Generalization**_:
   By embedding frequency attention within feature maps (not raw inputs) and leveraging a lightweight PVT-v2 backbone, M2SFormer achieves a favorable trade-off between accuracy and computation. This design ensures robust cross-domain generalization while keeping the parameter count (~27M) and FLOPs (~14G) efficient compared to prior frequency- or Transformer-based approaches
   
 ## Experiment Results
