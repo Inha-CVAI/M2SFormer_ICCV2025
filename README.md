@@ -36,6 +36,8 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
   In addition to domain transfer, M2SFormer shows greater resilience to real-world corruptions such as JPEG compression, blurring, and noise, which are common in online tampered images. By leveraging frequency-domain cues (DCT) and curvature-based difficulty guidance, the model preserves boundary fidelity and subtle traces even under degraded conditions, outperforming conventional CNN or single-domain approaches
 
 ### Segmentation results on CASIAv2 training scheme
+<img width="2360" height="688" alt="image" src="https://github.com/user-attachments/assets/ee8a294c-9da2-4db1-9539-1607057bf531" />
+
 <img width="6209" height="3965" alt="QualitativeResults" src="https://github.com/user-attachments/assets/7493003c-ab06-4b9d-92e5-ab6de5c97c7c" />
 
 ### Segmentation results on DIS25k training scheme
