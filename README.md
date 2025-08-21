@@ -22,15 +22,6 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
   
 ## Experiment Results
 
-### Segmentation results on CASIAv2 training scheme
-<img width="6209" height="3965" alt="QualitativeResults" src="https://github.com/user-attachments/assets/7493003c-ab06-4b9d-92e5-ab6de5c97c7c" />
-
-### Segmentation results on DIS25k training scheme
-<img width="6209" height="3965" alt="SupQualitativeResults" src="https://github.com/user-attachments/assets/07225969-1e26-43ce-b80d-bb8235e18cde" />
-
-### Efficiency Analysis
-<img width="4603" height="4338" alt="EfficiencyGraph" src="https://github.com/user-attachments/assets/5035cc54-5cbb-4d47-9dd5-f0da89d31b74" />
-
 ### 🔑 Key Findings from Experiment Results
 - _**Superior Cross-Domain Generalization**_:
   M2SFormer consistently outperforms state-of-the-art methods on unseen datasets (e.g., Columbia, IMD2020, CoMoFoD, In-the-Wild, MISD). For instance, when trained on CASIAv2, it achieves DSC 58.8 / mIoU 50.8, and when trained on DIS25k, it reaches DSC 87.7 / mIoU 81.5, demonstrating strong robustness across manipulation types and domains
@@ -43,6 +34,15 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 
 - _**Real-World Corruption Robustness**_:
   In addition to domain transfer, M2SFormer shows greater resilience to real-world corruptions such as JPEG compression, blurring, and noise, which are common in online tampered images. By leveraging frequency-domain cues (DCT) and curvature-based difficulty guidance, the model preserves boundary fidelity and subtle traces even under degraded conditions, outperforming conventional CNN or single-domain approaches
+
+### Segmentation results on CASIAv2 training scheme
+<img width="6209" height="3965" alt="QualitativeResults" src="https://github.com/user-attachments/assets/7493003c-ab06-4b9d-92e5-ab6de5c97c7c" />
+
+### Segmentation results on DIS25k training scheme
+<img width="6209" height="3965" alt="SupQualitativeResults" src="https://github.com/user-attachments/assets/07225969-1e26-43ce-b80d-bb8235e18cde" />
+
+### Efficiency Analysis
+<img width="4603" height="4338" alt="EfficiencyGraph" src="https://github.com/user-attachments/assets/5035cc54-5cbb-4d47-9dd5-f0da89d31b74" />
   
 # Code Usage
 
