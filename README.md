@@ -4,7 +4,7 @@ The reproduction code of M2SFormer which is accepted in ICCV 2025
 🚨 Source code of M2SFormer will be updated soon.
 
 ## 🔔 Latest News
-- [2025-07-24]: Our paper was selected as Highlight paper in ICCV 2025!!
+- [2025-07-24]: Our paper was selected as _**Highlight**_ paper in ICCV 2025.
 - [2025-06-26]: We are happy to announce that M2SFormer was accepted at [ICCV 2025](https://iccv.thecvf.com/virtual/2025/poster/881).
 
 ## Abstract
