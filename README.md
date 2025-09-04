@@ -9,6 +9,7 @@ The reproduction code of M2SFormer which is accepted in ICCV 2025
 
 ## Poster
 [ICCV2025 Poster.pdf](https://github.com/user-attachments/files/22129944/ICCV2025.Poster.pdf)
+<img width="3150" height="1772" alt="ICCV2025 Poster-1" src="https://github.com/user-attachments/assets/450f6743-61e6-43ac-bea9-fdae044b08fa" />
 
 ## Video
 
