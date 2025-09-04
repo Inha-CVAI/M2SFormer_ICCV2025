@@ -8,6 +8,7 @@ The reproduction code of M2SFormer which is accepted in ICCV 2025
 - [2025-06-26]: We are happy to announce that M2SFormer was accepted at [ICCV 2025](https://iccv.thecvf.com/virtual/2025/poster/881). 🥳🥳
 
 ## Poster
+[ICCV2025 Poster.pdf](https://github.com/user-attachments/files/22129944/ICCV2025.Poster.pdf)
 
 ## Video
 
