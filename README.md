@@ -63,5 +63,8 @@ Image editing techniques have rapidly advanced, facilitating both innovative use
 <img width="4603" height="4338" alt="EfficiencyGraph" src="https://github.com/user-attachments/assets/5035cc54-5cbb-4d47-9dd5-f0da89d31b74" />
   
 # Code Usage
+```
+python main.py --num_workers 4 --data_path dataset --train_data_type CASIAv2 --save_path model_weights --model_name M2SFormer
+```
 
 # Bibtex
