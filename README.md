@@ -7,7 +7,7 @@ The reproduction code of M2SFormer which is accepted in ICCV 2025
 > † Corresponding author.
 
 ## 🔔 Latest News
-- [2026-06-17]: Our new image forgery localization paper, **SARIF: Segment Anything for Robust Image Forensics**, was accepted to **ECCV 2026**!
+- [2026-06-17]: 🎉 We are excited to announce that our new image forgery localization paper, **SARIF**, was accepted to **ECCV 2026**! ✨
 - [2026-01-07]: We uploaded ICCV 2025 Inference Code!
 - [2025-09-04]: We uploaded ICCV 2025 Poster!
 - [2025-07-24]: Our paper was selected as _**Highlight**_ paper in ICCV 2025. 🎉🎉
