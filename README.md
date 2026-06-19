@@ -1,9 +1,13 @@
 # M2SFormer [ICCV2025 Highlight]
 The reproduction code of M2SFormer which is accepted in ICCV 2025
 
-🚨 Source code of M2SFormer will be updated soon.
+## 💡 We also have other Image Forensics Localization projects that may interest you ✨
+**SARIF: Segment Anything for Robust Image Forensics [ECCV 2026]** Dong-Hyun Moon*, Ju-Hyeon Nam*, Sang-Chul Lee† [github](#) [arXiv](#) [paper](#) [code](#)
+> * Equal contribution.
+> † Corresponding author.
 
 ## 🔔 Latest News
+- [2026-06-17]: We uploaded ICCV 2025 Inference Code!
 - [2026-01-07]: We uploaded ICCV 2025 Inference Code!
 - [2025-09-04]: We uploaded ICCV 2025 Poster!
 - [2025-07-24]: Our paper was selected as _**Highlight**_ paper in ICCV 2025. 🎉🎉
