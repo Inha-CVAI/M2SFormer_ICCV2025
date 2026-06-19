@@ -4,13 +4,12 @@ The reproduction code of M2SFormer which is accepted in ICCV 2025
 ## 💡 We also have other Image Forgery Localization projects that may interest you ✨
 
 > [**SARIF: Segment Anything for Robust Image Forensics [ECCV 2026]**](https://github.com/Inha-CVAI/SARIF_ECCV2026)  
-> Dong-Hyun Moon<sup>&#42;</sup>, Ju-Hyeon Nam<sup>&#42;</sup>, Sang-Chul Lee<sup>&dagger;</sup>
+> Dong-Hyun Moon<sup>&#42;</sup>, Ju-Hyeon Nam<sup>&#42;</sup>, Sang-Chul Lee<sup>&dagger;</sup>  
 > [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/Inha-CVAI/SARIF_ECCV2026)
 > [![Stars](https://img.shields.io/github/stars/Inha-CVAI/SARIF_ECCV2026?style=social)](https://github.com/Inha-CVAI/SARIF_ECCV2026/stargazers)
 > [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-lightgrey.svg)](#)  
-> <sup>*</sup> Equal contribution.  
-> <sup>†</sup> Corresponding author.
-
+> <sup>&#42;</sup> Equal contribution.  
+> <sup>&dagger;</sup> Corresponding author.
 
 ## 🔔 Latest News
 - [2026-06-17]: 🎉 We are excited to announce that our new image forgery localization paper, **SARIF**, was accepted to **ECCV 2026**! ✨
